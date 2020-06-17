@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+/* .new{
+  height: 100px;
+} */
+#calc{
+  float: right;
+}
